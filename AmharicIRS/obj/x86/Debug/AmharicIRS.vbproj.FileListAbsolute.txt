@@ -1,0 +1,34 @@
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.Resources.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\bin\Debug\AmharicIRS.exe
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\bin\Debug\AmharicIRS.pdb
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\bin\Debug\AmharicIRS.xml
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.exe
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.xml
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.pdb
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.SplashScreen1.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmOutput.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmEdit.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmTeamMembers.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmIndexing.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmSearching.resources
+G:\2nd Semester\2. Information Storage & Retrieval\Assignments\AmharicIRS\AmharicIRS\obj\x86\Debug\AmharicIRS.frmOurNotePad.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.exe
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.xml
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.pdb
+C:\Users\Biniam\Desktop\CD\AmharicIRS\bin\Debug\AmharicIRS.exe
+C:\Users\Biniam\Desktop\CD\AmharicIRS\bin\Debug\AmharicIRS.pdb
+C:\Users\Biniam\Desktop\CD\AmharicIRS\bin\Debug\AmharicIRS.xml
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmEdit.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmIndexing.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.Resources.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmOurNotePad.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmOutput.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmSearching.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.SplashScreen1.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\AmharicIRS.frmTeamMembers.resources
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Biniam\Desktop\CD\AmharicIRS\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AmharicIRS", "AmharicIRS\AmharicIRS.vbproj", "{61094707-8CDA-42A0-B8E2-5ABEA937A078}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAmharic", "SetupAmharic\SetupAmharic.vdproj", "{A90BB8B5-6002-4A66-BA1F-535349F24878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61094707-8CDA-42A0-B8E2-5ABEA937A078}.Debug|x86.ActiveCfg = Debug|x86
+		{61094707-8CDA-42A0-B8E2-5ABEA937A078}.Debug|x86.Build.0 = Debug|x86
+		{61094707-8CDA-42A0-B8E2-5ABEA937A078}.Release|x86.ActiveCfg = Release|x86
+		{61094707-8CDA-42A0-B8E2-5ABEA937A078}.Release|x86.Build.0 = Release|x86
+		{A90BB8B5-6002-4A66-BA1F-535349F24878}.Debug|x86.ActiveCfg = Debug
+		{A90BB8B5-6002-4A66-BA1F-535349F24878}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
